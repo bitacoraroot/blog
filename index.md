@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a BITACORA_de_ROOT
 
 You can use the [editor on GitHub](https://github.com/bitacoraroot/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
