@@ -1,4 +1,4 @@
-## Bienvenidos a BITACORA_de_ROOT
+## Bienvenidos a la BITACORA_de_ROOT
 
 You can use the [editor on GitHub](https://github.com/bitacoraroot/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Iniciando el 20 de febreo de 2018 - Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
