@@ -132,7 +132,7 @@ author:
 include:
   - .htaccess
   - _pages
-  _ _includes
+  - _includes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
