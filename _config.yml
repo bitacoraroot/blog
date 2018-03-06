@@ -17,7 +17,7 @@ url                      : "http://la.bitacoraroot.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bitacoraroot/blog"
 teaser                   : "/assets/images/500x300.png"
-remote_theme             :"mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
