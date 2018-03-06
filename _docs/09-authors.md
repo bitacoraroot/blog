@@ -2,7 +2,6 @@
 title: "Authors"
 permalink: /docs/authors/
 excerpt: "Instructions and settings for working with multiple site authors."
-author: Devin Conde
 last_modified_at: 2018-03-03T10:55:15-04:00
 ---
 
