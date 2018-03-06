@@ -16,7 +16,7 @@ last_modified_at: 2018-01-10T11:22:24-05:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfecto para el portal sobre TI y SEGURINFO, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Perfecto para el portal sobre TI y SEGURINFO, blog, or portfolio on GitHub or self-hosting on your own server. iniciamos en marzo de 2018. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
@@ -35,7 +35,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfecto para el portal 
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Indonesian, Italian (Italiano), Japanese, Korean, Nepali (Nepalese), Polish, Russian, Spanish (Español), Swedish, Turkish (Türkçe), and Vietnamese.
 
-## Demo Pages
+## Páginas de Demostración
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
