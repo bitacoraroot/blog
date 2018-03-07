@@ -37,7 +37,7 @@ staticman:
   branch                 : "master"
   commitMessage          : "New comment"
   filename               : "comment-{@timestamp}
-  format                 : "yaml"
+  format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ["name", "email", "message"]
