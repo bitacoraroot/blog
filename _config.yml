@@ -49,8 +49,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj"
-  secret                 : "6LcVzkoUAAAAAHEHacjS6_K8DdLZWqkgylp3eKEb"
+  siteKey                : "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
+  secret                 : "6LcVzkoUAAAAAHEHacjS6_K8DdLZWqkgylp3eKEb" # devin@devinconde.com reCaptchat
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/devin-conde.jpg"
-  bio              : "El futuro para Dios es historia!." # "Just another boring, tattooed, time traveling, designer."
+  bio              : "Porque para Dios, el futuro ya es historia!" # "Just another boring, tattooed, time traveling, designer."
   location         : # "La Paz, Bolivia"
   email            : "terorero@bitacoraroot.com"
   uri              : "https://root.devinconde.com"
