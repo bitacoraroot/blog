@@ -133,6 +133,7 @@ include:
   - .htaccess
   - _pages
   - _includes
+  - staticman.yml  # Incluyendo por error en comentarios desde github
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
