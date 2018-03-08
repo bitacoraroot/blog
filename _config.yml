@@ -34,7 +34,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : # "master" //Deshabilita TeroRERO
   commitMessage          : # "New comment"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -49,8 +49,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
-  secret                 : "RSnEjyBliKa+f7NBJPNC8uaZboeWjx/B5hyURq88LnOna9QGjWi0Y937w3EMzOntv4itVaqpvvV1oP77UFhL+quN6XAAVwbi01IezxkrwJ7vJec90QTydo41Gt0CAbO7vFIiJ+0S3sB+v0KjitYgr8qewAh1zB5+FIsAE7Sqrn8=" # devin@devinconde reCaptchat encriptado con staticman
+  siteKey                : # Deshabilidata TeroRERO "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
+  secret                 : # Deshabilidata TeroRERO "RSnEjyBliKa+f7NBJPNC8uaZboeWjx/B5hyURq88LnOna9QGjWi0Y937w3EMzOntv4itVaqpvvV1oP77UFhL+quN6XAAVwbi01IezxkrwJ7vJec90QTydo41Gt0CAbO7vFIiJ+0S3sB+v0KjitYgr8qewAh1zB5+FIsAE7Sqrn8=" # devin@devinconde reCaptchat encriptado con staticman
 
 atom_feed:
   path                   : # blank (default) uses feed.xml

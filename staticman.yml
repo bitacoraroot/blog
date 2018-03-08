@@ -34,7 +34,7 @@ comments:
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
-  format: "yaml"
+  format: "yml"
 
   # List of fields to be populated automatically by Staticman and included in
   # the data file. Keys are the name of the field. The value can be an object
@@ -101,4 +101,4 @@ comments:
     siteKey: "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret: "RSnEjyBliKa+f7NBJPNC8uaZboeWjx/B5hyURq88LnOna9QGjWi0Y937w3EMzOntv4itVaqpvvV1oP77UFhL+quN6XAAVwbi01IezxkrwJ7vJec90QTydo41Gt0CAbO7vFIiJ+0S3sB+v0KjitYgr8qewAh1zB5+FIsAE7Sqrn8=" # devin@devinconde reCaptchat encriptado con staticman
+    secret: "kfsFH3eoKD+gWkx59kPRZVkLzUju9OPSJaUxvtcT/0YX9dEyvAqQO0PMb9CGcfDKmLnJtQj5CYuAhcstF4g/mWqE1HAJzSb+rm9tzAPsyMwHv82nKpOZcSJkRZvoonfXQ0MCSUcSp+hOCV1nV4jAAq8wHYP7Y0aRsGTw+ldmqrw=" # devin@devinconde reCaptchat encriptado con staticman
