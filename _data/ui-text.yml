@@ -70,7 +70,7 @@ es: &DEFAULT_ES
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
   comments_label             : "Comentar"
-  comments_title             :
+  comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
   follow_label               : "Seguir:"
