@@ -101,4 +101,4 @@ comments:
     siteKey: "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret: "kfsFH3eoKD+gWkx59kPRZVkLzUju9OPSJaUxvtcT/0YX9dEyvAqQO0PMb9CGcfDKmLnJtQj5CYuAhcstF4g/mWqE1HAJzSb+rm9tzAPsyMwHv82nKpOZcSJkRZvoonfXQ0MCSUcSp+hOCV1nV4jAAq8wHYP7Y0aRsGTw+ldmqrw=" # devin@devinconde reCaptchat encriptado con staticman
+    secret: "Qt1lABeC9qf0PvD824puevCdcCGqdyHlB2wYe7ndVIT21kcO7DulVVfNkutCpjeyPYfYl2EUMciKJBMl0C9ClTC65rD20NYYj61Huj4HZfViLo9Jk2xudOK9o73tiAfTv5yHxTTOS69QtgdmsYpUi+1mmHyZHotl0yPbM6qlalE=" # devin@devinconde reCaptchat encriptado con staticman
