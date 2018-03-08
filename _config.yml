@@ -230,7 +230,7 @@ defaults:
       read_time: false
       author_profile: false
       share: false
-      comments: false
+      comments: true # false  //Modifica para ver comentarios recibidos.
       sidebar:
         nav: "docs"
   # _recipes
