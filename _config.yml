@@ -50,7 +50,7 @@ staticman:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                : "6LcVzkoUAAAAAPuwTrK9AnMy9bi69i01zNLTNeSj" # devin@devinconde.com reCaptchat
-  secret                 : "GnIFL+tmJ6nqTXj+fRArr0qhSnAtEHw9iVl2AE5hEN3IMFwNWFCwOZUsRMPlHFsoykmPiKtDJhgoUaLdrOfvnuelNP1pgCGMmkAUZwzDDiCaeaCH7lx0sc3CfD/xFoA5Nv7g0/+i7kpIprE5BwRK5o5lmpK9bpnwbtlGDpLYaM4=" # devin@devinconde reCaptchat encriptado con staticman
+  secret                 : "pHK9ABKIeWw3pPbfUQ+BjsdGjsi1F6mj8NlSEkZkty4rdVA8cX168IbMkaJouEhQvq6N3UevPRTZMPA4k6ryGSjpMP+rWY91zSJvTAlrPcSw3ElYBUFxEoSbIEXRCbpxpDh+JvVTzXIQYIUUSaAn1pN5G7etHHOEUEW3DK9TxiQ=" # devin@devinconde reCaptchat encriptado con staticman
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
