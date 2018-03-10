@@ -14,8 +14,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% assign m = page.date | date: "%-m" %}
-{% case m %}
+{% assign B = page.date | date: "%B" %}
+{% case B %}
   {% when '1' %}Enero
   {% when '2' %}Febrrero
   {% when '3' %}Marzo
