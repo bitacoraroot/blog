@@ -1,6 +1,6 @@
 ---
 title: "Post: Future Date"
-date: 2018-12-25
+date: "2017-12-25 11:08:00 -0400"
 categories:
   - Post
 ---

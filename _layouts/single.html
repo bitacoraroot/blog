@@ -14,22 +14,6 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% assign m = page.date | date: "%-m" %}
-{% case m %}
-  {% when '1' %}Enero
-  {% when '2' %}Febrrero
-  {% when '3' %}Marzo
-  {% when '4' %}Abril
-  {% when '5' %}Mayo
-  {% when '6' %}Junio
-  {% when '7' %}Julio
-  {% when '8' %}Agosto
-  {% when '9' %}Septiembre
-  {% when '10' %}Octubre
-  {% when '11' %}Noviembre
-  {% when '12' %}Diciembre
-{% endcase %}
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -68,9 +52,9 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
         {% if page.last_modified_at %}
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%-m-%d" }}">{{ page.last_modified_at | date: "%Y-%-m-%d" }}</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%-m-%d" }}</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
       </footer>
 
