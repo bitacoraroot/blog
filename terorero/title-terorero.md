@@ -2,18 +2,17 @@
 
 Muestras para el título de nuestro proyecto. Puede ser variable su implementación y/o cambio --- Idea inicial de TeroRERO :smile:.
 
-
 ![layout examples](terorero.png)
 
-## Características Especiales:
+## Características Especiales`:`
 
 - Texto original.
 - Presentación original.
 - En proceso de edición....
 
-## Modelos utilizando distintos tipos de fuente:
+## Modelos utilizando distintos tipos de fuente`:`
 
-```
+```bash
 
         ,----,                                                                         
       ,/   .`|                                                              ,----..    
