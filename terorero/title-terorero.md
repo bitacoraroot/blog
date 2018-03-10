@@ -1,4 +1,4 @@
-# [Título para TeroRERO](https://root.devinconde.com/)
+# [Preparando título para TeroRERO](https://root.devinconde.com/)
 
 Muestras para el título de nuestro proyecto. Puede ser variable su implementación y/o cambio --- Idea inicial de TeroRERO :smile:.
 
@@ -861,4 +861,4 @@ d888888P
 
 Font Name: Whimsy
 ..........................................................................
-```
+```..........................................................................
