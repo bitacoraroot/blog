@@ -281,6 +281,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - tzinfo-data
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -289,6 +290,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - tzinfo-data
 
 
 # Archives
