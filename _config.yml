@@ -281,7 +281,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - tzinfo-data
 
 # mimic GitHub Pages with --safe
 whitelist:
