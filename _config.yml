@@ -14,7 +14,7 @@ locale                   : "es-ES"
 title                    : "La Bitácora de root"
 title_separator          : "-"
 name                     : &name "TeroRERO GNU" # &name is a YAML anchor which can be *referenced later
-description              : &description "El espacio para la Bitácora de root."
+description              : &description "sed quis custodiet ipsos custodes?"
 myfooter                 : &myfooter "La Bitácora de ROOT"
 url                      : "https://la.bitacoraroot.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
