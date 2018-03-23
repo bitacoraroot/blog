@@ -1,0 +1,40 @@
+<article id="comment{{ include.index }}" class="js-comment comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=80" alt="{{ include.name }}">
+  </div>
+  <div class="comment__content-wrapper">
+    <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+      {% unless include.url == blank %}
+        <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
+      {% else %}
+        <span itemprop="name">{{ include.name }}</span>
+      {% endunless %}
+    </h3>
+    <p class="comment__date">
+      {% if include.date %}
+        {% if include.index %}<a href="#comment{{ include.index }}" itemprop="url">{% endif %}
+        <time datetime="{{ include.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign m = include.date | date: "%-m" %}
+          {{ include.date | date: "el %-d de" }}
+          {% case m %}
+            {% when '1' %}enero,
+            {% when '2' %}febrero,
+            {% when '3' %}marzo,
+            {% when '4' %}abril,
+            {% when '5' %}mayo,
+            {% when '6' %}junio,
+            {% when '7' %}julio,
+            {% when '8' %}agosto,
+            {% when '9' %}septiembre,
+            {% when '10' %}octubre,
+            {% when '11' %}noviembre,
+            {% when '12' %}diciembre,
+            {% endcase %}
+          {{ include.date | date: "%Y a horas %R" }}
+        </time>
+        {% if include.index %}</a>{% endif %}
+      {% endif %}
+    </p>
+    <div itemprop="text">{{ include.message | markdownify }}</div>
+  </div>
+</article>

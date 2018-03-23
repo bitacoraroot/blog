@@ -238,7 +238,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  tzinfo-data
 
 BUNDLED WITH
    1.16.1
