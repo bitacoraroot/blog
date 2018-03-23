@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc775d28-0030-4a5a-a5e9-dfb11152ab75" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/authors/index.html" afterPath="$PROJECT_DIR$/_site/docs/authors/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/collections/index.html" afterPath="$PROJECT_DIR$/_site/docs/collections/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/configuration/index.html" afterPath="$PROJECT_DIR$/_site/docs/configuration/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/contributing/index.html" afterPath="$PROJECT_DIR$/_site/docs/contributing/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/docs-2-2/index.html" afterPath="$PROJECT_DIR$/_site/docs/docs-2-2/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/helpers/index.html" afterPath="$PROJECT_DIR$/_site/docs/helpers/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/history/index.html" afterPath="$PROJECT_DIR$/_site/docs/history/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/installation/index.html" afterPath="$PROJECT_DIR$/_site/docs/installation/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/javascript/index.html" afterPath="$PROJECT_DIR$/_site/docs/javascript/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/layouts/index.html" afterPath="$PROJECT_DIR$/_site/docs/layouts/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/license/index.html" afterPath="$PROJECT_DIR$/_site/docs/license/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/navigation/index.html" afterPath="$PROJECT_DIR$/_site/docs/navigation/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/overriding-theme-defaults/index.html" afterPath="$PROJECT_DIR$/_site/docs/overriding-theme-defaults/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/pages/index.html" afterPath="$PROJECT_DIR$/_site/docs/pages/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/posts/index.html" afterPath="$PROJECT_DIR$/_site/docs/posts/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/quick-start-guide/index.html" afterPath="$PROJECT_DIR$/_site/docs/quick-start-guide/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/structure/index.html" afterPath="$PROJECT_DIR$/_site/docs/structure/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/stylesheets/index.html" afterPath="$PROJECT_DIR$/_site/docs/stylesheets/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/ui-text/index.html" afterPath="$PROJECT_DIR$/_site/docs/ui-text/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/upgrading/index.html" afterPath="$PROJECT_DIR$/_site/docs/upgrading/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/utility-classes/index.html" afterPath="$PROJECT_DIR$/_site/docs/utility-classes/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/_site/pets/lhasa-apso/index.html" afterPath="$PROJECT_DIR$/_site/pets/lhasa-apso/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/pets/tabby/index.html" afterPath="$PROJECT_DIR$/_site/pets/tabby/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/baz-boom-identity/index.html" afterPath="$PROJECT_DIR$/_site/portfolio/baz-boom-identity/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/fizz-bang-identity/index.html" afterPath="$PROJECT_DIR$/_site/portfolio/fizz-bang-identity/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/foo-bar-website/index.html" afterPath="$PROJECT_DIR$/_site/portfolio/foo-bar-website/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/portfolio/ginger-gulp-identity/index.html" afterPath="$PROJECT_DIR$/_site/portfolio/ginger-gulp-identity/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/recipes/chocolate-chip-cookies/index.html" afterPath="$PROJECT_DIR$/_site/recipes/chocolate-chip-cookies/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/recipes/oatmeal-cookies/index.html" afterPath="$PROJECT_DIR$/_site/recipes/oatmeal-cookies/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/recipes/peanut-butter-cookies/index.html" afterPath="$PROJECT_DIR$/_site/recipes/peanut-butter-cookies/index.html" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,32 +26,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/docs/license/index.html">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="228" column="31" lean-forward="false" selection-start-line="228" selection-start-column="31" selection-end-line="228" selection-end-column="31" />
-              <folding>
-                <marker date="1521845021000" expanded="true" signature="2709:2932" ph="..." />
-                <marker date="1521845021000" expanded="true" signature="2782:2815" ph="{...}" />
-                <marker date="1521845021000" expanded="true" signature="2839:2922" ph="{...}" />
-                <marker date="1521845021000" expanded="false" signature="3204:3214" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_site/docs/upgrading/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="309" column="12" lean-forward="false" selection-start-line="309" selection-start-column="12" selection-end-line="309" selection-end-column="12" />
-              <folding>
-                <marker date="1521845021000" expanded="true" signature="2754:2977" ph="..." />
-                <marker date="1521845021000" expanded="true" signature="2827:2860" ph="{...}" />
-                <marker date="1521845021000" expanded="true" signature="2884:2967" ph="{...}" />
-                <marker date="1521845021000" expanded="false" signature="3249:3259" ph="..." />
-              </folding>
+            <state relative-caret-position="130">
+              <caret line="140" column="10" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +51,7 @@
       <list>
         <option value="$PROJECT_DIR$/terorero/title-terorero.md" />
         <option value="$PROJECT_DIR$/_pages/acerca-de.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -172,11 +121,6 @@
             <path>
               <item name="bitacorarootwww" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitacorarootwww" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bitacorarootwww" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitacorarootwww" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,7 +244,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521772105593</updated>
       <workItem from="1521772108014" duration="3567000" />
-      <workItem from="1521843379356" duration="1615000" />
+      <workItem from="1521843379356" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="Modificando home page">
       <created>1521844856952</created>
@@ -313,10 +257,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5182000" />
+    <option name="totallyTimeSpent" value="5699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1900" height="996" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -331,7 +276,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18783638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18783638" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -384,13 +329,6 @@
             <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -455,12 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="228" column="31" lean-forward="false" selection-start-line="228" selection-start-column="31" selection-end-line="228" selection-end-column="31" />
-          <folding>
-            <marker date="1521845021000" expanded="true" signature="2709:2932" ph="..." />
-            <marker date="1521845021000" expanded="true" signature="2782:2815" ph="{...}" />
-            <marker date="1521845021000" expanded="true" signature="2839:2922" ph="{...}" />
-            <marker date="1521845021000" expanded="false" signature="3204:3214" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -468,12 +401,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="309" column="12" lean-forward="false" selection-start-line="309" selection-start-column="12" selection-end-line="309" selection-end-column="12" />
-          <folding>
-            <marker date="1521845021000" expanded="true" signature="2754:2977" ph="..." />
-            <marker date="1521845021000" expanded="true" signature="2827:2860" ph="{...}" />
-            <marker date="1521845021000" expanded="true" signature="2884:2967" ph="{...}" />
-            <marker date="1521845021000" expanded="false" signature="3249:3259" ph="..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="140" column="10" lean-forward="false" selection-start-line="140" selection-start-column="10" selection-end-line="140" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
