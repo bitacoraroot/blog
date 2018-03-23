@@ -12,17 +12,17 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-01-10T11:22:24-05:00
+last_modified_at: 2018-03-23T18:28:24-04:00
 toc: true
 ---
 
-Perfecto para el portal sobre TI y SEGURINFO, blog, or portfolio on GitHub or self-hosting on your own server. iniciamos en marzo de 2018. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Perfecto para el portal sobre TI y SEGURINFO, blog alojado en GitHub 2018. Iniciamos en marzo de 2018. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
+[Instalar el Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
+## Características Notables
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -60,7 +60,7 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-## Credits
+## Créditos
 
 ### Icons + Demo Images:
 
@@ -68,7 +68,7 @@ For even more demo pages check the [posts archive][year-archive].
 - [Font Awesome](http://fontawesome.io/)
 - [Unsplash](https://unsplash.com/)
 
-### Other:
+### Otros:
 
 - [Jekyll](https://jekyllrb.com/)
 - [jQuery](https://jquery.com/)
@@ -82,4 +82,4 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+La Bitácora de ROOT, mantenida por TeroRERO GNU.
