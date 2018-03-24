@@ -16,7 +16,9 @@ last_modified_at: 2018-03-23T18:28:24-04:00
 toc: true
 ---
 
-Perfecto para el portal sobre TI y SEGURINFO, blog alojado en GitHub 2018. Iniciamos en marzo de 2018. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Perfecto para el portal sobre TI y SEGURINFO, blog alojado en GitHub 2018. Iniciamos en marzo de 2018. 
+
+Una experiencia interesante --- estilo elegnte y ligero :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
