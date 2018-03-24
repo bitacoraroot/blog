@@ -1,28 +1,32 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-last_modified_at: 2017-10-20T12:42:38-04:00
+title: "Términos y Política de Privacidad"
+last_modified_at: 2018-03-23T22:50:38-04:00
 toc: true
 ---
 
-## Privacy Policy
+## Política de Privacidad
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Nuestra política de privacidad describe como recogemos, guardamos o utilizamos la información que recabamos a través de los diferentes servicios o páginas disponibles en este sitio. Es importante que entienda que información recogemos y como la utilizamos ya que el acceso a este sitio implica la aceptación nuestra política de privacidad.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Para delete La privacidad de mis visitantes es extremadamente importante. Esta Política de privacidad describe los tipos de información personal que se recibe y recopila, y cómo se usa.
 
-### Log Files
+Antes que nada, nunca compartiré su dirección de correo electrónico ni ninguna otra información personal con nadie sin su consentimiento directo.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+### Cookies
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+El acceso a este puede implicar la utilización de cookies. Las cookies son pequeñas cantidades de información que se almacenan en el navegador utilizado por cada usuario para que el servidor recuerde cierta información que posteriormente pueda utilizar. Esta información permite identificarle a usted como un usuario concreto y permite guardar sus preferencias personales, así como información técnica como puedan ser visitas o páginas concretas que visite.
+Aquellos usuarios que no deseen recibir cookies o quieran ser informados antes de que se almacenen en su ordenador, pueden configurar su navegador a tal efecto.
 
-All of this information is not linked to anything that is personally identifiable.
+La mayor parte de los navegadores de hoy en día permiten la gestión de las cookies de 3 formas diferentes:
+
+1. Las cookies no se aceptan nunca.
+2. El navegador pregunta al usuario si se debe aceptar cada cookie.
+3. Las cookies se aceptan siempre.
+
+El navegador también puede incluir la posibilidad de especificar mejor qué cookies tienen que ser aceptadas y cuáles no. En concreto, el usuario puede normalmente aceptar alguna de las siguientes opciones: rechazar las cookies de determinados dominios; rechazar las cookies de terceros; aceptar cookies como no persistentes (se eliminan cuando el navegador se cierra); permitir al servidor crear cookies para un dominio diferente. Además, los navegadores pueden también permitir a los usuarios ver y borrar cookies individualmente.
+
+Dispone de más información sobre las Cookies en: http://es.wikipedia.org/wiki/Cookie
 
 ### Cookies and Web Beacons
 

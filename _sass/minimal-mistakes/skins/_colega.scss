@@ -6,6 +6,8 @@
 $background-color: #FBFBFB !default;
 $text-color: #222831 !default;
 $muted-text-color: #393e46 !default;
+/* Color por defecto en next y previous */
+/*$muted-text-color: #124f7b !default;*/
 $primary-color: #124f7b !default; /* veem color */
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
@@ -20,4 +22,17 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
+}
+
+/* next/previous buttons
+Color por defecto en next y previous
+/* next/previous buttons */
+.pagination--pager {
+  /*color: $text-color;*/
+  background-color: #FBFBFB;
+  /*border-color: transparent;*/
+
+  &:visited {
+    color: $text-color;
+  }
 }
