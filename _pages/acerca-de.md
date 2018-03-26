@@ -12,13 +12,13 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-03-23T18:28:24-04:00
+last_modified_at: 2018-03-24T03:21:24-04:00
 toc: true
 ---
 
 Perfecto para el portal sobre TI y SEGURINFO, blog alojado en GitHub 2018. Iniciamos en marzo de 2018. 
 
-Una experiencia interesante --- estilo elegnte y ligero :smile:.
+Una experiencia interesante --- estilo elegante y ligero :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
