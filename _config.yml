@@ -139,6 +139,7 @@ exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - _site
+  - .idea
   - vendor
   - .asset-cache
   - .bundle
@@ -164,7 +165,6 @@ exclude:
 keep_files:
   - .git
   - .svn
-  - .idea
   - .vscode
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
