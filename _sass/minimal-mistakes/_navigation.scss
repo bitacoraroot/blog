@@ -140,7 +140,8 @@
     &:hover {
       /*@include yiq-contrasted($muted-text-color);
       TeroRERO cambia al color oficial del sitio */
-      @include yiq-contrasted(#124f7b);
+      @include yiq-contrasted(#124f7b);  /*   Color Light Navy - OFICIAL */
+      /* @include yiq-contrasted(#0d53ac);  Color Peacock Blue */
     }
 
     &:first-child {
