@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "mmistakes/minimal-mistakes"
-
+# theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "midblue" # "default", "air", "aqua", "bitacora", "colega", "contrast", "dark", "dirt", "neon", "mint", "midblue", "plum", "realmidblue", "sunrise", "zimbron"
 
 # Site Settings
@@ -25,7 +25,7 @@ words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
   disqus:
-    shortname            :
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -46,7 +46,7 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
@@ -55,7 +55,6 @@ reCaptcha:
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
@@ -69,7 +68,6 @@ algolia:
 google_site_verification : # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -90,7 +88,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # TeroRERO desactiva "google-universal"  false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : # "UA-2011187-3" # Replace this with your ID, or delete
 
@@ -119,7 +117,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : *twitter
@@ -169,6 +167,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Liquid
+strict_front_matter: true
+liquid:
+  error_mode: strict
 
 # Conversion
 markdown: kramdown
@@ -274,8 +276,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: America/La_Paz # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
