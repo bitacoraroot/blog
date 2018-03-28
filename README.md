@@ -3,7 +3,7 @@
 
 ![Bitacoraroot Logo](terorero/bitacora-text.png)
 
-[https://la.bitacoraroot.com](https://la.bitacoraroot.com) - Porque para Dios el futuro ya es historia!.
+[https://la.bitacoraroot.com](https://la.bitacoraroot.com) - Porque para Dios el futuro ya es historia:exclamation:
 
 ## Créditos
 
