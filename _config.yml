@@ -57,12 +57,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia
+search_provider          : algolia # TeroreRO modifica lunr (default), algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : AG29RBQIIX # YOUR_APPLICATION_ID
+  index_name             : bitacoraroot # YOUR_INDEX_NAME
+  search_only_api_key    : cb6353eb8cf47219d7c34acf5d28341d # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # (default), false
+  files_to_exclude:
+    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
 google_site_verification : # Replace this with your ID, or delete
