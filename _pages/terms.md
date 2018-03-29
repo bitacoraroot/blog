@@ -9,7 +9,7 @@ toc: true
 
 Nuestra política de privacidad describe como recogemos, guardamos o utilizamos la información que recabamos a través de los diferentes servicios o páginas disponibles en este sitio. Es importante que entienda que información recogemos y como la utilizamos ya que el acceso a este sitio implica la aceptación nuestra política de privacidad.
 
-Para nosotros La privacidad de mis visitantes es extremadamente importante. Esta Política de privacidad describe los tipos de información personal que se recibe y recopila, y cómo se usa.
+Para delete La privacidad de mis visitantes es extremadamente importante. Esta Política de privacidad describe los tipos de información personal que se recibe y recopila, y cómo se usa.
 
 Antes que nada, nunca compartiré su dirección de correo electrónico ni ninguna otra información personal con nadie sin su consentimiento directo.
 
