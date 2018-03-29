@@ -37,11 +37,7 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '.search-searchbar',
     {% unless site.algolia.powered_by == false %}poweredBy: true,{% endunless %}
-<<<<<<< HEAD
-    placeholder: '{{ site.data.ui-text[site.locale].search_placeholder_text | default: "Ingrese el término a buscar..." }}'
-=======
     placeholder: '{{ site.data.ui-text[site.locale].search_placeholder_text | default: "Enter your search term..." }}'
->>>>>>> parent of 20ec092... Actualizado a la Release 4.11.1
   })
 );
 search.addWidget(
