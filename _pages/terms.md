@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
-title: "Términos y Política de Privacidad"
-last_modified_at: 2018-03-23T22:50:38-04:00
+title: "Política de Privacidad"
+last_modified_at: 2018-03-29T06:00:38-04:00
 toc: true
 ---
 
