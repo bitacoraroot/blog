@@ -43,6 +43,7 @@ en: &DEFAULT_EN
   loading_label              : "Loading..."
   search_placeholder_text    : "Enter your search term..."
   results_found              : "Result(s) found"
+  back_to_top                : "Back to Top"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -60,7 +61,7 @@ es: &DEFAULT_ES
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
-  menu_label                 :
+  menu_label                 : "Cambiar menu"
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
@@ -82,7 +83,7 @@ es: &DEFAULT_ES
   website_label              : "Sitio web"
   email_label                : "Email"
   recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
+  undefined_wpm              : "Parámetro words_per_minute (Palabras por minuto) no definido en _config.yml"
   comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
   comment_form_comment_label : "Comentario"
   comment_form_md_info       : "Markdown está soportado."
@@ -96,6 +97,7 @@ es: &DEFAULT_ES
   loading_label              : "Cargando..."
   search_placeholder_text    : "Ingrese el término a buscar..."
   results_found              : "Resultado(s) Encontrado(s)"
+  back_to_top                : "Volver al Principio"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
