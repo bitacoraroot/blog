@@ -1,0 +1,45 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  back_to_top                : "Back to Top"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  back_to_top                : "Volver al Principio"
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
+
+# French
+# ------
+fr: &DEFAULT_FR
+  back_to_top                : "Back to Top"
+fr-FR:
+  <<: *DEFAULT_FR
+fr-BE:
+  <<: *DEFAULT_FR
+fr-CH:
+  <<: *DEFAULT_FR
+
+# Turkish
+# -------
+tr: &DEFAULT_TR
+  back_to_top                : "Back to Top"
+tr-TR:
+  <<: *DEFAULT_TR
+
+# Another locale
+# --------------
+#
