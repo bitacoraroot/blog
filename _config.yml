@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes"
 # theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "midblue" # "default", "air", "aqua", "bitacora", "colega", "contrast", "dark", "dirt", "neon", "mint", "midblue", "peacoblue", "plum", "realmidblue", "sunrise", "zimbron"
+minimal_mistakes_skin    : "midblue" # "default", "air", "fake", "aqua", "bitacora", "colega", "contrast", "dark", "dirt", "neon", "mint", "midblue", "peacoblue", "plum", "realmidblue", "sunrise", "zimbron"
 
 # Site Settings
 locale                   : "es-ES"
