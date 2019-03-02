@@ -1,4 +1,4 @@
-# Bienvenido a la [Bitácora de ROOT](https://la.bitacoraroot.com)
+# Bienvenidos a la [Bitácora de ROOT](https://la.bitacoraroot.com)
 > Sed quis custodiet ipsos custodes?
 
 ![Bitacoraroot Logo](terorero/bitacora-text.png)
